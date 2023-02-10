@@ -12,7 +12,7 @@
 </a>
 
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Kevin-ZhangClutchit)(https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Kevin-ZhangClutchit)
 
 #### Waka Stats~
 
