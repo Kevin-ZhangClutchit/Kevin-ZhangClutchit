@@ -12,7 +12,8 @@
 </a>
 
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-ZhangClutchit)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Kevin-ZhangClutchit)(https://github.com/anuraghazra/github-readme-stats)
+
 #### Waka Stats~
 
 ![Kevin Zhang's weekly wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=KevinZhangClutchit&layout=compact&range=last_7_days)
