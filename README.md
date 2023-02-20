@@ -7,9 +7,8 @@
 :running: I'm currently practicing Python and C++.​
 
 #### Basic information about me
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" alt="Kevin Zhang's GitHub stats" height='180' src="https://github-readme-stats.vercel.app/api?username=Kevin-ZhangClutchit&?count_private=true&show_icons=true&theme=tokyonight&hide=issues" />
-</a>
+![Kz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin-ZhangClutchit&count_private=true&theme=tokyonight)
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" alt="Kevin Zhang's GitHub stats" height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-ZhangClutchit&layout=compact" />
 </a>
