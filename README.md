@@ -4,7 +4,7 @@
 
 📫 How to reach me: Email: kevin.zhang@sjtu.edu.cn
 
-:running: I'm currently practicing Python and C++.​
+:running: I'm currently working with Qt during internship.​
 
 #### Basic information about me
 ![Kz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin-ZhangClutchit&count_private=true&theme=tokyonight)
