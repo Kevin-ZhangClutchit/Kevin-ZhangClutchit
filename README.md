@@ -1,10 +1,8 @@
 ## Hi Kevin Zhang Here
 
-:computer: I'm currently studying Electrical and Computer Engineering in UM-SJTU Joint Institute.
+:computer: I'm currently studying Computer Science at NYU.
 
-📫 How to reach me: Email: kevin.zhang@sjtu.edu.cn
-
-:running: I'm currently working with Qt during internship.​
+:running: I'm currently practicing with Databases and Web Search Engines.​
 
 #### Basic information about me
 ![Kz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin-ZhangClutchit&count_private=true&theme=tokyonight)
